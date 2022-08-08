@@ -1,4 +1,4 @@
-const LIne = () => {
-  return <div>LIne</div>;
+const Line = () => {
+  return <div>Line</div>;
 };
-export default LIne;
+export default Line;
